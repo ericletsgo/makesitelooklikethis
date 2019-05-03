@@ -1,0 +1,28 @@
+{
+  "name": "makesitelooklikethis",
+  "version": "1.0.0",
+  "description": "<img src=\"https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg\" alt=\"react boilerplate banner\" align=\"center\" />",
+  "main": ".eslintrc.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "node": "^11.13.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericletsgo/makesitelooklikethis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericletsgo/makesitelooklikethis/issues"
+  },
+  "homepage": "https://github.com/ericletsgo/makesitelooklikethis#readme"
+}
